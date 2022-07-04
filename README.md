@@ -31,7 +31,7 @@ Para clonar e rodar essa aplicação você precisa ter o [Git](https://git-scm.c
 
 ```bash
 # Clonar o repositorio
-$ git Clone https://github.com/willianduartte/Jogo-da-memoria
+$ git Clone https://github.com/willianduartte/React-Projeto-WhatsApp
 
 # com o repositorio selecionado no seu CDM rode
 $ npm install
