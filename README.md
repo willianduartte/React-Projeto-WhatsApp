@@ -10,7 +10,7 @@
 <img src="./Clone-do-Whats.png">
 
 <h1 align='center'>
-    <a href="https://willianduartte.github.io/HTML-DoctorCare/">Clique aqui para Testar o app</a>
+    <a href="https://react-projeto-whats-app.vercel.app/">Clique aqui para Testar o app</a>
 </h1>
 
 # Tecnologias
